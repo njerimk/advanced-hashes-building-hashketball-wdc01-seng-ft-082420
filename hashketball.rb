@@ -3,7 +3,6 @@ def game_hash(filepath)
 new_hash = {}
   new_result = new_hash.map do |key1, key2| 
     puts key1 = new_hash
-    end
   end
   puts new_hash
 end
