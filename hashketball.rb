@@ -1,4 +1,4 @@
-def game_hash(filepath)
+def game_hash
   game_hash = {
     :home => {
       :team_name => "Brooklyn Nets",
