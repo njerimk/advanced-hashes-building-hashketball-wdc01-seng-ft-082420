@@ -34,8 +34,7 @@ def game_hash(filepath)
     }
     
   }
-  end
-  puts new_hash
+
 end
 
 game_hash
