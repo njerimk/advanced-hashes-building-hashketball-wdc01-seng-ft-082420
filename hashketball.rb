@@ -21,14 +21,15 @@ def game_hash(filepath)
       team_name => "Charlotte Hornets",
       :colors => ["Turquoise", "Purple"],
       :players =>[{:player_name => "Jeff Adrien",:number => 4, :shoe => 18, :points => 10,
-      :rebounds => 1,:assists => 1, :steals => 2, :blocks => 2, :slam_dunks => 1 }, 
-      {:player_name => "",:number => 1, :shoe => 1, :points => 2,
+      :rebounds => 1,:assists => 1, :steals => 2, :blocks => 7, :slam_dunks => 2}, 
+      {:player_name => "Bismack Biyombo",:number => 0, :shoe => 16, 
+      :points => 12,
       :rebounds => 1,:assists => 1, :steals => 2, :blocks => 7, :slam_dunks => 1}, 
-      {:player_name => "",:number => 1, :shoe => 1, :points => 2,
-      :rebounds => 1,:assists => 1, :steals => 2, :blocks => 2, :slam_dunks => 1}, 
-      {:player_name => "",:number => 1, :shoe => 1, :points => 2,
+      {:player_name => "DeSagna Diop",:number => 1, :shoe => 1, :points => 2,
+      :rebounds => 1,:assists => 1, :steals => 2, :blocks => 2, :slam_dunks => 2}, 
+      {:player_name => "Ben Gordon",:number => 1, :shoe => 1, :points => 2,
       :rebounds => 1,:assists => 1, :steals => 2, :blocks => 2, :slam_dunks => 1},
-      {:player_name => "",:number => 1, :shoe => 1, :points => 2,
+      {:player_name => "Kemba Walker",:number => 1, :shoe => 1, :points => 2,
       :rebounds => 1,:assists => 1, :steals => 2, :blocks => 2, :slam_dunks => 1}]
       
     }
